@@ -1,0 +1,7 @@
+A 3D ball rolling game created in Unity 3D. The basic objective is to roll the ball through different levels and collect all the collectibles on each level. Different gameplay modes could be designed to allow for different ways to play.
+
+MAjor things to deal with
+
+=> Designing the menu
+=> Reducing the size of the final "apk" file
+=> Textures for the levels
