@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class PlayerControl1 : MonoBehaviour 
 {
 	//public so that we can change the value in the inspector
-	public float speed = 800.0f;
+	public float speed = 900.0f;
 	public float speedAc = 17;
 	//"scoreText will store our UI Text Object"
 	public Text scoreText;
